@@ -1,0 +1,10 @@
+customtkinter
+bcrypt
+pygame
+vosk
+sounddevice
+requests
+gtts
+discord.py
+python-dotenv
+google-generativeai

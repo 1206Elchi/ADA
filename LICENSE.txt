@@ -1,0 +1,26 @@
+ADA Open Personal License (AOPL-1.0)
+
+Copyright (c) 2025 Elchi
+
+This software, ADA (Artificial Domestic Assistant), is released as open source for strictly personal, non-commercial, and educational use.
+
+You are permitted to:
+- Use, modify, and build this software for personal and educational purposes only.
+- Change its internal name, customize responses, and tailor its functionality.
+- Study and learn from the source code.
+- Host your personal version on your own devices or network, as long as no access is shared or offered to others.
+
+You are NOT permitted to:
+- Sell, rent, license, or offer ADA (original or modified) for commercial purposes.
+- Distribute the original or any modified version of ADA publicly.
+- Share ADA on public platforms, stores, or app directories.
+- Integrate ADA into commercial products or services, paid plans, or subscription models.
+- Use ADA as part of monetized platforms, products, or commercial installations (including smart home packages or automation kits).
+
+API keys, coordinate data, and personal messaging functions are part of this private version and MUST be removed before any redistribution, should it ever be authorized.
+
+Commercial licenses may be granted by request to the author in special cases (e.g., funding, collaboration).
+
+This license is designed to protect the privacy-first, user-centered nature of ADA while allowing experimentation and personal use.
+
+Created with ❤️ by Elchi
